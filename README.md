@@ -21,10 +21,9 @@ To run the code and perform red flag detection, you'll need the following depend
 Installation
 
 1. Clone the repository:
-   ```bash
-  https://github.com/Bikas0/Red-Flag-Detection-using-YOLOv8.git
-  ```
-
+```bash
+https://github.com/Bikas0/Red-Flag-Detection-using-YOLOv8.git
+```
 2. Create a virtual environment
 ```bash
 python -m venv venv
@@ -39,21 +38,22 @@ activate
 cd ../..
 ```
 or
+
 ```bash
 conda activate red_flag
 ```
 or
+
 ```bash
 cd venv
 source bin/activate
 cd ..
 ```
+
 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
-   
 
 4. Download YOLOv8 weights file and place it in the appropriate directory.
 
