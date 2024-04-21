@@ -14,11 +14,11 @@ activate
 cd ../..
 ```
 or
-```imi
+```bash
 conda activate red_flag
 ```
 or
-```imi
+```bash
 cd venv
 source bin/activate
 cd ..
@@ -28,5 +28,11 @@ Install Library
 ```bash
 pip install -r requirements.txt
 ```
+
+For run the main.py file
+```bash
+python main.py
+```
+
 
 
