@@ -22,35 +22,36 @@ Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Red-Flag-Detection-using-YOLOv8.git
-   ```
+  https://github.com/Bikas0/Red-Flag-Detection-using-YOLOv8.git
+  ```
+
 2. Create a virtual environment
-        ```bash
-        python -m venv venv
-                or
-        conda create -n red_flag python=3.10
-        ```
-        Activate virtual environment
-        ```bash
-        cd venv
-        cd Scripts
-        activate
-        cd ../..
-        ```
-        or
-        ```bash
-        conda activate red_flag
-        ```
-        or
-        ```bash
-        cd venv
-        source bin/activate
-        cd ..
-        ```
+```bash
+python -m venv venv
+       or
+conda create -n red_flag python=3.10
+```
+Activate virtual environment
+```bash
+cd venv
+cd Scripts
+activate
+cd ../..
+```
+or
+```bash
+conda activate red_flag
+```
+or
+```bash
+cd venv
+source bin/activate
+cd ..
+```
 3. Install dependencies:
-        ```bash
-        pip install -r requirements.txt
-        ```
+```bash
+pip install -r requirements.txt
+```
 
    
 
@@ -61,9 +62,9 @@ Installation
 1. Modify the main.py script to specify the path to your image file.
 
 2. Run the script:
-   ```bash
-   python main.py
-   ```
+```bash
+python main.py
+```
    
 ## Usage
 
