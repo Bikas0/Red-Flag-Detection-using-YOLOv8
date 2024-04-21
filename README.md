@@ -59,22 +59,15 @@ pip install -r requirements.txt
 
 ## Usage
 
+To perform red flag detection on an image, you can use the provided main.py script. Simply provide the image path (image_path = "image path") and trained model weight path (prediction_model = YOLO("model path here") from the main.py file, and the script will output the detected red flags along with their bounding boxes.
+
+
 1. Modify the main.py script to specify the path to your image file.
 
 2. Run the script:
 ```bash
 python main.py
 ```
-   
-## Usage
-
-To perform red flag detection on an image, you can use the provided main.py script. Simply provide the image path (image_path = "image path") and trained model weight path (prediction_model = YOLO("model path here") from the main.py file, and the script will output the detected red flags along with their bounding boxes.
-
-Example usage:
-
-bash
-python detect_red_flag.py 
-
 
 ## Training
 
