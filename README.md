@@ -1,4 +1,4 @@
-# Red-Flag-Detection-using-YOLOv8
+# Red Flag Detection using YOLOv8x
 Red-Flag-Detection-using-YOLOv8 is an approach that utilizes the YOLOv8 (You Only Look Once version 8) deep learning model to detect red flags or warning signals within an image or video feed. Here's a detailed description of how this could be implemented:
 
 Dataset Preparation: First, gather and prepare a dataset of images containing red flags or warning signs. This dataset should include a variety of images with different backgrounds, lighting conditions, and orientations of the flags.
